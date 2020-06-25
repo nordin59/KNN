@@ -1,6 +1,6 @@
 import numpy as np
 import sys
-import load_datasets
+import load_dataset
 import knn
 
 train_ratio=80
